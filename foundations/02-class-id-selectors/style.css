@@ -1,0 +1,27 @@
+
+.RedBack {
+    background-color: rgb(250,150,150);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#BigBlue {
+    color: rgb(0,0,250);
+    font-size: 36px;
+}
+
+#GreenBack {
+    background-color: rgb(150,250,150);
+    font-weight: bold;
+}
+
+:not(.RedBack) {
+    font-family: sans-serif;
+}
+
+
+
+

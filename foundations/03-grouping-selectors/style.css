@@ -1,0 +1,16 @@
+.Black {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.Black, .Yellow {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', serif;
+    outline-color: grey;
+}
